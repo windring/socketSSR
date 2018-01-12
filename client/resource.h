@@ -1,0 +1,1 @@
+#define IDD_KANOJYO 123

@@ -1,0 +1,1 @@
+g++ cloud.cpp -std=c++11 -pthread -o app&&./app
